@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# R
+.Rhistory
+.RData
+
+# Node
+node_modules/
+
+# env
+.env
+
+# logs
+*.log
+
+# VSCode
+.vscode/
+
+# Ignore local server logs
+/tmp/psa_http.log
+
+# Optional: ignore results/ or plots/ if large (uncomment to enable)
+#results/
+#plots/
